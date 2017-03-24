@@ -1,4 +1,4 @@
 # clappr-player
-Clappr playe-plugin
+Clappr player-plugin
 
 #.Multi angle video / cam plugin that support .mp4/hls stream
